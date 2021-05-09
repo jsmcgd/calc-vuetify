@@ -1,5 +1,7 @@
 # calc-vuetify
 
+This is a project to test Vuetify. It is a simple calculator.
+
 ## Project setup
 ```
 npm install
