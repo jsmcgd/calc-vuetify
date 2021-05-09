@@ -1,0 +1,17 @@
+$border-radius-root: .5rem;
+$font-size-root: 1rem;
+
+$btn-sizes: (
+  'default': 54,
+  'large': 68
+);
+
+$rounded: (
+  0: 0,
+  'sm': $border-radius-root / 2,
+  null: $border-radius-root,
+  'lg': $border-radius-root * 2,
+  'xl': $border-radius-root * 6,
+  'pill': 9999px,
+  'circle': 50%
+)
